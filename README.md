@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**SRamos-Dev/SRamos-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Roadmap POO Java - Ejercicios Prácticos
 
-Here are some ideas to get you started:
+Este repositorio contiene un roadmap de ejercicios prácticos para aprender Programación Orientada a Objetos (POO) en Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fases
+
+- Fase 1: Fundamentos
+- Fase 2: Encapsulamiento
+- Fase 3: Herencia y Polimorfismo
+- Fase 4: Interfaces
+- Fase 5: Relaciones entre Clases
+- Fase 6: Manejo de Excepciones
+- Fase 7: Colecciones y POO
+- Fase 8: Enums
+- Fase 9: Proyecto Integrador
+- Fase 10: Buenas Prácticas
+
+## Instrucciones
+
+Cada fase contiene uno o más ejercicios, explicados en el código o con archivos de ejemplo. Puedes resolverlos y expandirlos según tu aprendizaje.
+
+¡Mucho éxito aprendiendo POO con Java!
