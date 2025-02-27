@@ -15,9 +15,3 @@ Este repositorio contiene un roadmap de ejercicios prácticos para aprender Prog
 - Fase 8: Enums
 - Fase 9: Proyecto Integrador
 - Fase 10: Buenas Prácticas
-
-## Instrucciones
-
-Cada fase contiene uno o más ejercicios, explicados en el código o con archivos de ejemplo. Puedes resolverlos y expandirlos según tu aprendizaje.
-
-¡Mucho éxito aprendiendo POO con Java!
