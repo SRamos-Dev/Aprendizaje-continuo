@@ -12,7 +12,7 @@ public class Producto {
     public Producto(){
         this.nombre = "";
         this.precio = 0.0;
-        this.cantidad = 0;
+        this.cantidad= 0;
     }
 
     // 3. Constructor para inicializar el producto con nombre y precio
@@ -56,5 +56,6 @@ public class Producto {
         System.out.println("Precio: "+precio);
         System.out.println("Cantidad: "+cantidad);
     }
+
 }
         

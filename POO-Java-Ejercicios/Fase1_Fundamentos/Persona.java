@@ -25,7 +25,7 @@ public class Persona {
     // 4. Método para actualizar el correo
     public void actualizarCorreo(String nuevoCorreo){
         this.correo = nuevoCorreo;
-        System.out.println("El correo se ha actualizado correctamente");
+        System.out.println("Correo actualizado correctamente.");
     }
 
     // 5. Getters (opcionales, si los quieres para otros fines)
@@ -48,13 +48,13 @@ public class Persona {
     public static void main(String[] args) {
         
     // Crear un objeto de tipo Persona
-        Persona persona = new Persona("Sergio Ramos", 28, "sergio.ramos@gmail.com");
+        Persona persona = new Persona("Sergio Ramos", 28, "sergioramos@gmail.com");
 
     // Mostrar datos iniciales
         persona.mostrarDatos();
 
     // Actualizar el correo
-        persona.actualizarCorreo("sergioramos@gmail.com");
+        persona.actualizarCorreo("sergio.ramos@gmail.com");
 
     // Mostrar datos actualizados
         persona.mostrarDatos();
