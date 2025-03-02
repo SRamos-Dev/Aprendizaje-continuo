@@ -11,14 +11,15 @@ public class Producto {
     // 2. Constructor para inicializar el producto vacio
     public Producto(){
         this.nombre = "";
-        this.precio = 0.0;
-        this.cantidad= 0;
+        this.precio = 0.00;
+        this.cantidad = 0;
     }
 
     // 3. Constructor para inicializar el producto con nombre y precio
     public Producto(String nombre, double precio){
         this.nombre = nombre;
         this.precio = precio;
+        this.cantidad = 0;
     }
 
     // 4. Constructor para inicializar el producto con todos los atributos

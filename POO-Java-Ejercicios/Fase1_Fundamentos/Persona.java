@@ -16,7 +16,7 @@ public class Persona {
     }
 
     // 3. Método para mostrar los datos de la persona
-    public void mostrarDatos(){
+    public void mostrarInfo(){
         System.out.println("Nombre: "+nombre);
         System.out.println("Edad: "+edad);
         System.out.println("Correo: "+correo);
@@ -40,7 +40,7 @@ public class Persona {
     }
 
     // 6. Setter de correo (otra forma de actualizarlo si prefieres)
-    public void setCorreo(String correo){
+    public void correo(String correo){
         this.correo = correo;
     }
 
@@ -51,13 +51,12 @@ public class Persona {
         Persona persona = new Persona("Sergio Ramos", 28, "sergioramos@gmail.com");
 
     // Mostrar datos iniciales
-        persona.mostrarDatos();
+        persona.mostrarInfo();
 
     // Actualizar el correo
         persona.actualizarCorreo("sergio.ramos@gmail.com");
 
     // Mostrar datos actualizados
-        persona.mostrarDatos();
+        persona.mostrarInfo();
     }
-
 }
