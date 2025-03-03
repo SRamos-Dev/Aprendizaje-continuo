@@ -1,53 +1,71 @@
-## Descripción de las Fases
+# 📚 Java - Ejercicios Tecnicos
 
-### Fase 1: Fundamentos
-- **Persona.java**: Clase que representa una persona con atributos como nombre, edad y correo.
-- **Producto.java**: Clase que representa un producto con sobrecarga de constructores.
+Este repositorio contiene una colección de ejercicios prácticos enfocados en **conceptos clave de Java**, diseñados para reforzar conocimientos esenciales y prepararte para entrevistas técnicas.  
+Los ejercicios están organizados por categorías para facilitar el estudio.
 
-### Fase 2: Encapsulamiento
-- **CuentaBancaria.java**: Clase que representa una cuenta bancaria con atributos privados y métodos getters/setters.
-- **ModificadoresEjemplo.java**: Ejemplos de modificadores de acceso (public, private, protected, default).
+---
 
-### Fase 3: Herencia y Polimorfismo
-- **Animal.java**: Clase base con método `hacerSonido()`.
-- **Perro.java** y **Gato.java**: Clases que heredan de `Animal` y sobrescriben el método `hacerSonido()`.
-- **Figura.java**: Clase abstracta con método abstracto `calcularArea()`.
-- **Circulo.java** y **Rectangulo.java**: Clases que heredan de `Figura` y implementan el método `calcularArea()`.
+## 📂 Estructura de carpetas
 
-### Fase 4: Interfaces
-- **OperacionesVehiculo.java**: Interfaz con métodos `acelerar()`, `frenar()` y `girar()`.
-- **Coche.java**: Clase que implementa la interfaz `OperacionesVehiculo`.
+### 1️⃣ Variables
+Ejercicios prácticos sobre:
+- Declaración de variables.
+- Tipos de datos primitivos y no primitivos.
+- Alcance y ciclo de vida de las variables.
 
-### Fase 5: Relaciones entre Clases
-- **Universidad.java**: Clase que contiene una lista de estudiantes.
-- **Coche.java**: Clase que contiene un objeto `Motor`.
+### 2️⃣ Operadores y Math
+Ejercicios sobre:
+- Operadores aritméticos, relacionales, lógicos y de asignación.
+- Uso de la clase `Math` para operaciones matemáticas comunes.
+- Ejercicios para aplicar operadores combinados.
 
-### Fase 6: Manejo de Excepciones
-- **CuentaBancaria.java**: Clase que maneja excepciones personalizadas como `SaldoInsuficienteException`.
+### 3️⃣ Condicionales
+Ejercicios prácticos para dominar:
+- Estructuras `if`, `else if`, `else`.
+- Uso de `switch`.
+- Aplicación de condiciones anidadas.
 
-### Fase 7: Colecciones y POO
-- **Biblioteca.java** y **Libro.java**: Clases para manejar una colección de libros.
+### 4️⃣ Bucles
+Ejercicios enfocados en:
+- Ciclos `for`, `while` y `do-while`.
+- Control de flujo con `break` y `continue`.
+- Ejercicios para iterar sobre rangos y condiciones.
 
-### Fase 8: Enums
-- **EstadoPedido.java**: Enum que representa el estado de un pedido (PENDIENTE, ENVIADO, ENTREGADO).
-- **Pedido.java**: Clase que utiliza el enum `EstadoPedido`.
+### 5️⃣ Arrays
+Ejercicios prácticos sobre:
+- Declaración e inicialización de arreglos.
+- Recorrido de arrays con distintos bucles.
+- Ejercicios de búsqueda, ordenación y manipulación de datos en arrays.
 
-### Fase 9: Proyecto Integrador
-- **Tienda.java**: Sistema de gestión de tienda con clases como `Producto`, `Cliente` y `Venta`.
+### 6️⃣ Métodos
+Ejercicios para:
+- Definir y llamar métodos.
+- Paso de parámetros y retorno de valores.
+- Sobrecarga de métodos.
 
-## Prácticas Adicionales
+### 7️⃣ Programación Orientada a Objetos (POO)
+Ejercicios completos sobre:
+- Creación de clases y objetos.
+- Encapsulamiento (getters y setters).
+- Uso de constructores.
+- Aplicación de herencia, polimorfismo, interfaces y clases abstractas.
+- Ejercicios prácticos de modelado (como gestión de bibliotecas o vehículos).
 
-### Básico
-- **Bucles.java**: Ejercicios con bucles.
-- **Condicionales.java**: Ejercicios con condicionales.
-- **EstructuraDeDatos.java**: Ejercicios con arrays y listas.
+---
 
-### Intermedio
-- **Bucles.java**: Ejercicios avanzados con bucles.
-- **EstructuraDeDatos.java**: Ejercicios con pilas y colas.
-- **POO.java**: Ejercicios de programación orientada a objetos.
+## 🎯 Objetivo
+Este conjunto de ejercicios está diseñado para:
+- Reforzar conceptos clave de Java desde nivel básico hasta intermedio.
+- Prepararte para resolver problemas comunes en entrevistas técnicas.
+- Aplicar buenas prácticas y estructuración de código.
 
-### Avanzado
-- **Condicionales.java**: Algoritmos de ordenamiento.
-- **EstructurasComplejas.java**: Implementación de árboles binarios y grafos.
-- **POOAvanzada.java**: Diseño de sistemas complejos con POO.
+---
+
+## 🚀 Recomendaciones de uso
+1. Avanza carpeta por carpeta, asegurándote de dominar cada tema antes de continuar.
+2. Intenta resolver cada ejercicio primero sin consultar soluciones.
+3. Documenta tus propias soluciones dentro de cada archivo.
+
+---
+
+## ✅ ¡Manos a la obra y mucho éxito!
