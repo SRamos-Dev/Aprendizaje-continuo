@@ -86,8 +86,5 @@ Este documento es una guía recomendada para estudiar **POO en Java**, cubriendo
 - Aplicar patrones de diseño simples (Singleton, Factory).
 - Sistema de reservas con **herencia, polimorfismo y persistencia**.
 
----
-
-## 📂 Estructura Recomendada
 
 
