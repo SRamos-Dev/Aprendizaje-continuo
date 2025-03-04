@@ -1,7 +1,5 @@
 package Metodos;
 
-import Herencia.HerenciaEmpleados;
-
 public class Producto {
     /*Crea una clase Producto con:
     *Atributos: nombre, precio, cantidad.
