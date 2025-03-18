@@ -40,6 +40,7 @@ public class CalculadoraSimple {
         if(opcion == 5){
             System.out.println("Saliendo del programa. Vuelva pronto....");
         }
+        entrada.close();
     }
 }
     
