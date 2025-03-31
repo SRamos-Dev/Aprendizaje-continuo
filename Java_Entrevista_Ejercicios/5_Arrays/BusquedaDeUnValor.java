@@ -41,6 +41,6 @@ public class BusquedaDeUnValor {
                         }
                 }
             }
-            
+            entrada.close();
     }
 }
