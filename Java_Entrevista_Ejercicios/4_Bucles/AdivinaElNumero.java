@@ -12,9 +12,6 @@ public class AdivinaElNumero {
         System.out.println("---- ADIVINA EL NUMERO ---");
         System.out.println("Elige un numero entre el 1 y el 50 para poder ganar el juego");
 
-        
-
-
         while (numUsuario != numeroGanador) {
             System.out.println("Este es tu intento "+intentos);
             numUsuario = entrada.nextInt();
@@ -24,5 +21,7 @@ public class AdivinaElNumero {
             System.out.println("Felicidades haz descubierto el numero correcto!!");
         }
         
+        entrada.close();
     }
+    
 }
